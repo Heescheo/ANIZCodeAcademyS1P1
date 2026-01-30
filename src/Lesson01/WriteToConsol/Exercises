@@ -6,3 +6,6 @@ Run the code.
 2.Write your name to the consol, change WriteToConsol03. Run the code.
 3.Write to the consol the name and shoe size of the student sitting next to you on the right.
 3.Delete one of the characters and read your error message. Write to the table.
+
+
+"java: ';' expected"
