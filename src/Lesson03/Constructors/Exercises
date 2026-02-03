@@ -1,0 +1,20 @@
+Circle Assignment
+Instructions
+1. Tasks for Both Versions
+In both versions of your test class, complete the following task:
+
+Create three Circle objects, each with a different radius.
+
+
+2. CircleTest02
+In the class CircleTest02, make the following update:
+
+Change the condition in the if statement so that it checks whether the radius is greater than 200.
+Run your program and observe what changes in the output.
+
+
+3. ADVANCED — For Experienced Programmers Only
+This optional task is only for students who want an extra programming challenge:
+
+Move the entire if statement into its own method.
+The goal is to reduce repetition and write cleaner, more reusable code.
